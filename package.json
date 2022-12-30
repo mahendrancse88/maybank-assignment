@@ -1,9 +1,9 @@
 {
-  "name": "maybank-interview-technical-test",
+  "name": "maybank-assignment-react",
   "version": "1.0.0",
-  "description": "Maybank Interview Technical Test",
+  "description": "Maybank assignment react",
   "main": "src/index.js",
-  "author": "Aaron Tee",
+  "author": "Mahendran",
   "private": true,
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.ts",

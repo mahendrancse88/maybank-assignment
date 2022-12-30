@@ -1,4 +1,4 @@
-# Maybank Technical Assignment
+# Maybank Assignment React
 
 This project uses ReactJS with a custom boilerplate.
 
@@ -26,13 +26,7 @@ Please note that there is a validation of minimum 3 characters for address input
 
 ### Redux Thunk
 
-Google Map API service only can be accessed by using window.google library, not explicitly through API calling therefore react thunk in this project was only used for fetching mock data returned from a fake promise.
+ react thunk in this project was only used for fetching  data returned from a fake promise.
 
-### Google Map API KEY
-
-Please replace your own google map API_KEY to src/configs/index.ts file. Also note that your API_KEY must have these two API enabled in order the application works properly.
-
-- Maps Javascript API
-- Places API
-
-
+## Demo
+<img src ="Screenshot 2022-12-30 083848.png" />
